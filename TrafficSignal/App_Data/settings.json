@@ -1,0 +1,68 @@
+﻿{
+    "HorizontalCarSettings": {
+        "X": 1200,
+        "Y": 265,
+        "TimerDelay": 1000,
+        "TimerInterval": 8,
+        "PixelsToMove": 1,
+        "Width": 77,
+        "Height": 77,
+        "Location": "1200, 265"
+    },
+    "VerticalCarSettings": {
+        "X": 655,
+        "Y": 700,
+        "TimerDelay": 2000,
+        "TimerInterval": 8,
+        "PixelsToMove": 1,
+        "Width": 77,
+        "Height": 77,
+        "Location": "655, 700"
+    },
+    "HorizontalSignalSettings": {
+        "X": 750,
+        "Y": 200,
+        "Width": 76,
+        "Height": 50,
+        "LightWidth": 40,
+        "LightHeight": 40,
+        "LightColor": "LightGreen"
+    },
+    "VerticalSignalSettings": {
+        "X": 750,
+        "Y": 450,
+        "Width": 50,
+        "Height": 76,
+        "LightWidth": 40,
+        "LightHeight": 40,
+        "LightColor": "Red"
+    },
+    "SignalTimerSettings": {
+        "TimerDelay": 5000,
+        "TimerInterval": 5000
+    },
+    "SidewalkSettings": {
+        "Width": 450,
+        "Height": 250,
+        "VerticalStreeWidth": 300,
+        "HorizontalStreetWidth": 200
+    },
+    "HorizontalLaneSettings": {
+        "X": 0,
+        "Y": 343,
+        "Width": 50,
+        "Height": 14
+    },
+    "VerticalLaneSettings": {
+        "X": 593,
+        "Y": 0,
+        "Width": 14,
+        "Height": 50
+    },
+    "StreetSettings": {
+        "NorthBorder": 250,
+        "SouthBorder": 450,
+        "WestBorder": 450,
+        "EastBorder": 750
+    }
+}
